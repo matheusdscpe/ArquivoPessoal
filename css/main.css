@@ -1,0 +1,12 @@
+main{
+    display: flex;
+    justify-content: center;
+    margin-top: 1rem;
+}
+
+.ft-perfil{
+    overflow: hidden;
+    width: 80vw;
+    border-radius: 100%;
+    box-shadow: 5px 5px 50px black;
+}

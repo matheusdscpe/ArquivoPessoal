@@ -1,0 +1,27 @@
+:root{
+    /*
+    #01004e azul escuro
+    #002484 azul 
+    #b3cec7 azzul pastel bebe
+    #8a7db3 roxo pastel
+    #babddc roxo pastel claro
+
+    #373a59 roxo dracula
+    #cd5eb1 rosa dracula
+    #26273f roxo escuro dracula
+    #e1e1e1 branco dracula
+    #c2c2c2 cinza claro dracula
+    #656071 cinza escuro dracula
+    */
+
+    --fundo-base: #373a59;
+    --fundo-claro: #656071;
+}
+
+*{
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    font-family: 'Oswald', sans-serif;
+    background-color: var(--fundo-base);
+}
